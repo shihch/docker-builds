@@ -1,3 +1,5 @@
+# Docker image: clarkc/rpi-nginx
+
 FROM hypriot/rpi-alpine-scratch
 
 RUN apk update && \
